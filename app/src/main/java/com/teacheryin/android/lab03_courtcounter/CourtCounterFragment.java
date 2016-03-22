@@ -48,4 +48,14 @@ public class CourtCounterFragment extends Fragment implements View.OnClickListen
         int score = Integer.parseInt(m_tv_team_score.getText().toString());
         m_tv_team_score.setText(String.valueOf(score + 3));
     }
+
+    // 將分數歸零
+    public void resetScore() {
+        m_tv_team_score.setText("0");
+    }
+
+    // 設定隊伍名字
+    public void setTeamName(CharSequence teamName) {
+        m_tv_team_name.setText(teamName);
+    }
 }
