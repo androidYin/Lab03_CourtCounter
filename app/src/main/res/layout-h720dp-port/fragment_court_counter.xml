@@ -38,6 +38,7 @@
 
         <Button
             android:id="@+id/btn_three_points"
+            android:textSize="@dimen/font_size"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
@@ -47,6 +48,7 @@
 
         <Button
             android:id="@+id/btn_two_points"
+            android:textSize="@dimen/font_size"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
@@ -55,6 +57,7 @@
 
         <Button
             android:id="@+id/btn_free_throw"
+            android:textSize="@dimen/font_size"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
