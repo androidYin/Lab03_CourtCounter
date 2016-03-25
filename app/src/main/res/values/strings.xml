@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">Lab03_CourtCounter</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="team_a_name">黃蜂</string>
     <string name="team_b_name">火箭</string>
 
