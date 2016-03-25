@@ -14,8 +14,7 @@
             android:id="@+id/img_team_logo"
             android:layout_width="250dp"
             android:layout_height="250dp"
-            android:layout_gravity="center"
-            android:src="@drawable/team_a_logo" />
+            android:layout_gravity="center" />
 
         <TextView
             android:id="@+id/tv_team_name"
@@ -42,7 +41,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            android:onClick="addThreePoints"
             android:text="+3 分球"
             android:textColor="@android:color/white" />
 

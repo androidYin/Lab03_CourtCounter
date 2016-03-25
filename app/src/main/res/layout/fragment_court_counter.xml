@@ -35,7 +35,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            android:onClick="addThreePoints"
             android:text="+3 分球"
             android:textColor="@android:color/white"/>
 
